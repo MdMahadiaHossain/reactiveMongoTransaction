@@ -1,6 +1,6 @@
 # ReactiveMongo Transaction test
 ---
-
+##### Mongodb database version: MongoDB 4.2.6 Enterprise
 ### To do
 0. Create foo and bar collection in database.
 1. Go to src/test/scala/MongoTest.scala
