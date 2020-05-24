@@ -2,7 +2,7 @@
 ---
 
 ### To do
-0.Create foo and bar collection in database.
+0. Create foo and bar collection in database.
 1. Go to src/test/scala/MongoTest.scala
 2. Set uri : `val mongoUri = "uri"`
 3. Run sbt 
