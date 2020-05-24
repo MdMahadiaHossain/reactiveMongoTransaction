@@ -17,3 +17,4 @@ libraryDependencies ++= Seq(
 libraryDependencies += "org.scalactic" %% "scalactic" % "3.1.2"
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.1.2" % "test"
 
+libraryDependencies += "org.slf4j" % "slf4j-log4j12" % "1.7.26" % Test
