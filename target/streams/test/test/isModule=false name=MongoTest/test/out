@@ -1,0 +1,20 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mMongoTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should create transaction *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  reactivemongo.api.commands.CommandError$DefaultCommandError: CommandError[code=251, errmsg=Given transaction number 1 does not match any in-progress transactions. The active transaction number is -1, doc: {[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "errorLabels": [[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    "TransientTransactionError"[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ],[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "operationTime": Timestamp(1590340759, 2),[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "ok": 0.0,[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "errmsg": "Given transaction number 1 does not match any in-progress transactions. The active transaction number is -1",[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "code": 251,[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "codeName": "NoSuchTransaction",[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "$clusterTime": {[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    "clusterTime": Timestamp(1590340759, 2),[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    "signature": {[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m      "hash": BSONBinary(GenericBinarySubtype, size = 20),[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m      "keyId": NumberLong(6778831253614362625)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    }[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  }[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m}][0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m

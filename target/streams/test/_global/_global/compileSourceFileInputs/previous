@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.8":{"hashes":[["/mnt/storage/Lab/reactiveMongo/standAlone/src/test/scala/MongoTest.scala","ce783d8fac21346cf1fb2397f5c24573d0fe4533"]],"lastModifiedTimes":[]}}]

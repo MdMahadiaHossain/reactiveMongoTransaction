@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/mnt/storage/Lab/reactiveMongo/standAlone/src/main/resources/log4j.properties,/mnt/storage/Lab/reactiveMongo/standAlone/target/scala-2.12/classes/log4j.properties)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/mnt/storage/Lab/reactiveMongo/standAlone/src/main/resources/log4j2.xml,/mnt/storage/Lab/reactiveMongo/standAlone/target/scala-2.12/classes/log4j2.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/mnt/storage/Lab/reactiveMongo/standAlone/src/main/resources/reference.conf,/mnt/storage/Lab/reactiveMongo/standAlone/target/scala-2.12/classes/reference.conf)[0m
